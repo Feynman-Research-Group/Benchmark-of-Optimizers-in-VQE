@@ -1,7 +1,7 @@
 # Benchmark-of-Optimizers-in-VQE
 
 ## ⚠️ Research Code Disclaimer
-*This repository contains the experimental code used for the manuscript "Benchmarking Classical Optimizers for VQE in NISQ Devices". It was developed for rapid prototyping and data collection in a scientific research context. The focus is on reproducibility of results rather than software engineering best practices.*
+*This repository contains the experimental code used for the manuscript "Benchmarking Classical Optimizers for VQE in NISQ Devices". It was developed for rapid prototyping and data collection in a scientific research context.*
 
 ## 📌 Project Overview
 This project investigates the performance of classical optimization algorithms (**COBYLA, ADAM, PSO**) when applied to the Variational Quantum Eigensolver (VQE) for simulating the $H_2$ molecule.
